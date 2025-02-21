@@ -11,10 +11,30 @@ A modern and responsive landing page for Discord bots built with Next.js 14, Typ
 
 ![Preview](./image.png)
 
+### ✨ [Live Demo](https://discord-bot-website-ruddy-two.vercel.app/)
+
 ## Getting Started
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/88JC/Discord-bot-website.git
+cd Discord-bot-website
+```
+
+2. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+```
 
 First, run the development server:
 
+3. Run the development server:
 ```bash
 npm run dev
 # or
@@ -63,7 +83,6 @@ Contributions, issues and feature requests are welcome!
 - X: [@METALHEAD666](https://x.com/METALHEAD666)
 - Discord: [Cafeydo Town](https://discord.gg/CDD223E3W3)
 - Discord Bot Music: [Soulvibe](https://soulvibebot.com)
-
 
 ## 📄 License
 
