@@ -1,0 +1,105 @@
+{
+  "mainNav": [
+    {
+      "title": "Features",
+      "href": "/#features"
+    },
+    {
+      "title": "Commands",
+      "href": "/commands"
+    },
+    {
+      "title": "Documentation",
+      "href": "/docs"
+    },
+    {
+      "title": "Blog",
+      "href": "/blog"
+    }
+  ],
+  "footerLinks": [
+    {
+      "title": "Product",
+      "links": [
+        { "text": "Features", "href": "/#features" },
+        { "text": "Premium", "href": "/premium" },
+        { "text": "Status", "href": "/status" }
+      ]
+    },
+    {
+      "title": "Resources",
+      "links": [
+        { "text": "Documentation", "href": "/docs" },
+        { "text": "Blog", "href": "/blog" },
+        { "text": "FAQ", "href": "/faq" }
+      ]
+    }
+  ],
+  "social": [
+    {
+      "name": "Twitter",
+      "href": "#",
+      "icon": "𝕏"
+    },
+    {
+      "name": "GitHub",
+      "href": "#",
+      "icon": "🐱"
+    },
+    {
+      "name": "Discord",
+      "href": "#",
+      "icon": "👾"
+    }
+  ],
+  "product": [
+    {
+      "name": "Home",
+      "href": "/"
+    },
+    {
+      "name": "Features",
+      "href": "/features"
+    },
+    {
+      "name": "Commands",
+      "href": "/commands"
+    },
+    {
+      "name": "Premium",
+      "href": "/premium"
+    },
+    {
+      "name": "Status",
+      "href": "/status"
+    }
+  ],
+  "resources": [
+    {
+      "name": "Documentation",
+      "href": "/docs"
+    },
+    {
+      "name": "Blog",
+      "href": "/blog"
+    },
+    {
+      "name": "Support",
+      "href": "/support"
+    },
+    {
+      "name": "FAQ",
+      "href": "/faq"
+    }
+  ],
+  "legal": [
+    {
+      "name": "Privacy Policy",
+      "href": "/privacy"
+    },
+    {
+      "name": "Terms of Service",
+      "href": "/terms"
+    }
+  ]
+} 

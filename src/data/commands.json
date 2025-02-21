@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "name": "Moderation",
+      "icon": "🛡️",
+      "commands": [
+        {
+          "name": "ban",
+          "description": "Ban a user from the server",
+          "category": "mod",
+          "usage": "/ban @user [reason]"
+        },
+        {
+          "name": "kick",
+          "description": "Kick a user from the server",
+          "category": "mod",
+          "usage": "/kick @user [reason]"
+        },
+        {
+          "name": "mute",
+          "description": "Temporarily mute a user",
+          "category": "mod",
+          "usage": "/mute @user [duration]"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "icon": "🎵",
+      "commands": [
+        {
+          "name": "play",
+          "description": "Play a song or playlist",
+          "category": "music",
+          "usage": "/play [song name or URL]"
+        },
+        {
+          "name": "queue",
+          "description": "View the current music queue",
+          "category": "music",
+          "usage": "/queue"
+        }
+      ]
+    },
+    {
+      "name": "Utility",
+      "icon": "⚙️",
+      "commands": [
+        {
+          "name": "help",
+          "description": "Show help menu",
+          "category": "util",
+          "usage": "/help [command]"
+        },
+        {
+          "name": "ping",
+          "description": "Check bot latency",
+          "category": "util",
+          "usage": "/ping"
+        }
+      ]
+    }
+  ]
+} 

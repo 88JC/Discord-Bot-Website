@@ -1,0 +1,44 @@
+{
+  "quickHelp": [
+    {
+      "icon": "📚",
+      "title": "Documentation",
+      "description": "Find detailed guides and tutorials in our documentation.",
+      "link": "/docs",
+      "linkText": "View Docs"
+    },
+    {
+      "icon": "💬",
+      "title": "Discord Server",
+      "description": "Join our community for real-time support and discussions.",
+      "link": "#",
+      "linkText": "Join Server"
+    },
+    {
+      "icon": "❓",
+      "title": "FAQ",
+      "description": "Quick answers to commonly asked questions.",
+      "link": "/faq",
+      "linkText": "View FAQ"
+    }
+  ],
+  "issueTypes": [
+    "Select an issue type",
+    "Technical Problem",
+    "Account Issue",
+    "Billing Question",
+    "Feature Request",
+    "Bug Report",
+    "Other"
+  ],
+  "theme": {
+    "light": {
+      "primary": "amber",
+      "secondary": "amber"
+    },
+    "dark": {
+      "primary": "amber",
+      "secondary": "amber"
+    }
+  }
+} 

@@ -1,0 +1,16 @@
+{
+  "incidents": [
+    {
+      "date": "March 10, 2024",
+      "status": "resolved",
+      "title": "Music System Degraded Performance",
+      "description": "Some users experienced delays in music playback. Issue was resolved within 15 minutes."
+    },
+    {
+      "date": "March 5, 2024",
+      "status": "resolved",
+      "title": "API Rate Limiting",
+      "description": "Temporary increase in API latency due to high traffic. Services restored to normal."
+    }
+  ]
+} 

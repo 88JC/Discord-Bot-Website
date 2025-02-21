@@ -1,0 +1,87 @@
+{
+  "categories": [
+    {
+      "name": "Getting Started",
+      "icon": "🚀",
+      "questions": [
+        {
+          "question": "How do I add the bot to my server?",
+          "answer": "Click the 'Add to Discord' button on our homepage and follow the simple authorization process. You'll need administrator permissions on your server.",
+          "links": [
+            { "text": "Setup Guide", "url": "/docs/setup" },
+            { "text": "Add Bot", "url": "#" }
+          ]
+        },
+        {
+          "question": "What permissions does the bot need?",
+          "answer": "The bot requires basic permissions like sending messages, managing roles, and voice channel access. You can review all permissions during the setup process."
+        },
+        {
+          "question": "Is the bot free to use?",
+          "answer": "Yes! We offer a generous free tier with essential features. Premium features are available through our paid plans.",
+          "links": [
+            { "text": "View Pricing", "url": "/premium" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Features & Commands",
+      "icon": "⚡",
+      "questions": [
+        {
+          "question": "What commands are available?",
+          "answer": "We offer a wide range of commands for moderation, music, fun, and utility. Use /help to see all available commands.",
+          "links": [
+            { "text": "Command List", "url": "/commands" }
+          ]
+        },
+        {
+          "question": "Can I customize command prefixes?",
+          "answer": "Yes! Premium users can set custom prefixes for their servers. Free users can use the default / prefix."
+        },
+        {
+          "question": "How does the music player work?",
+          "answer": "Our music player supports YouTube, Spotify, and SoundCloud. Just use /play followed by a song name or URL."
+        }
+      ]
+    },
+    {
+      "name": "Troubleshooting",
+      "icon": "🔧",
+      "questions": [
+        {
+          "question": "The bot is not responding to commands",
+          "answer": "First, check if the bot is online and has proper permissions. Try reinviting the bot if issues persist.",
+          "links": [
+            { "text": "Status Page", "url": "/status" }
+          ]
+        },
+        {
+          "question": "How do I report a bug?",
+          "answer": "Join our support server to report bugs or use the /report command. Our team will investigate and respond promptly.",
+          "links": [
+            { "text": "Support Server", "url": "#" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Account & Billing",
+      "icon": "💳",
+      "questions": [
+        {
+          "question": "How do I upgrade to Premium?",
+          "answer": "Visit our premium page and choose a plan. We accept major credit cards and PayPal.",
+          "links": [
+            { "text": "Premium Plans", "url": "/premium" }
+          ]
+        },
+        {
+          "question": "Can I cancel my subscription?",
+          "answer": "Yes, you can cancel your premium subscription at any time. Your benefits will continue until the end of your billing period."
+        }
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,34 @@
+{
+  "features": [
+    {
+      "icon": "⚡",
+      "title": "Lightning Fast",
+      "description": "Experience instant response times with our optimized performance and reliable uptime."
+    },
+    {
+      "icon": "🛡️",
+      "title": "Advanced Security",
+      "description": "Keep your server safe with powerful moderation tools, auto-moderation, and raid protection."
+    },
+    {
+      "icon": "🎮",
+      "title": "Fun & Games",
+      "description": "Engage your community with interactive games, polls, and entertainment features."
+    },
+    {
+      "icon": "🎵",
+      "title": "Music Player",
+      "description": "High-quality music playback from multiple sources with advanced queue management."
+    },
+    {
+      "icon": "🔔",
+      "title": "Custom Alerts",
+      "description": "Set up customizable notifications for streams, social media, and server events."
+    },
+    {
+      "icon": "⚙️",
+      "title": "Easy Setup",
+      "description": "Get started quickly with intuitive configuration and helpful setup wizards."
+    }
+  ]
+} 

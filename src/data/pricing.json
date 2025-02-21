@@ -1,0 +1,43 @@
+{
+  "tiers": [
+    {
+      "name": "Free",
+      "icon": "🎉",
+      "price": 0,
+      "description": "Perfect for small communities",
+      "features": [
+        "Basic moderation commands",
+        "Music playback",
+        "Custom welcome messages",
+        "24/7 uptime"
+      ]
+    },
+    {
+      "name": "Pro",
+      "icon": "⭐",
+      "price": 9.99,
+      "description": "For growing communities",
+      "featured": true,
+      "features": [
+        "All Free features",
+        "Advanced moderation tools",
+        "Custom role management",
+        "Priority support",
+        "Unlimited audio quality"
+      ]
+    },
+    {
+      "name": "Enterprise",
+      "icon": "👑",
+      "price": 29.99,
+      "description": "For large communities",
+      "features": [
+        "All Pro features",
+        "Dedicated support",
+        "Custom bot development",
+        "White-label solution",
+        "API access"
+      ]
+    }
+  ]
+} 

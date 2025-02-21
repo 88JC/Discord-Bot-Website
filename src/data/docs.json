@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Getting Started",
+      "items": [
+        { "title": "Introduction", "href": "/docs/intro" },
+        { "title": "Quick Start", "href": "/docs/quickstart" },
+        { "title": "Installation", "href": "/docs/installation" },
+        { "title": "Configuration", "href": "/docs/configuration" }
+      ]
+    },
+    {
+      "name": "Features",
+      "items": [
+        { "title": "Moderation", "href": "/docs/moderation" },
+        { "title": "Music Player", "href": "/docs/music" },
+        { "title": "Custom Commands", "href": "/docs/custom-commands" },
+        { "title": "Automation", "href": "/docs/automation" }
+      ]
+    },
+    {
+      "name": "Advanced",
+      "items": [
+        { "title": "API Reference", "href": "/docs/api" },
+        { "title": "Webhooks", "href": "/docs/webhooks" },
+        { "title": "Custom Development", "href": "/docs/development" }
+      ]
+    }
+  ],
+  "featuredGuides": [
+    {
+      "icon": "📚",
+      "title": "Command Reference",
+      "description": "Complete list of all available commands and their usage.",
+      "href": "/docs/commands"
+    },
+    {
+      "icon": "⚙️", 
+      "title": "Server Setup",
+      "description": "Learn how to configure the bot for your server.",
+      "href": "/docs/setup"
+    },
+    {
+      "icon": "🎵",
+      "title": "Music Guide",
+      "description": "Set up and use the music player features.",
+      "href": "/docs/music"
+    },
+    {
+      "icon": "🛡️",
+      "title": "Moderation Guide",
+      "description": "Advanced moderation tools and best practices.",
+      "href": "/docs/moderation"
+    }
+  ]
+} 

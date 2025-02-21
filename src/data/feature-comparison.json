@@ -1,0 +1,28 @@
+{
+  "features": [
+    {
+      "name": "Command Limit",
+      "free": "25/day",
+      "pro": "Unlimited",
+      "enterprise": "Unlimited"
+    },
+    {
+      "name": "Audio Quality",
+      "free": "128kbps",
+      "pro": "320kbps",
+      "enterprise": "320kbps"
+    },
+    {
+      "name": "Custom Commands",
+      "free": "5",
+      "pro": "25",
+      "enterprise": "Unlimited"
+    },
+    {
+      "name": "Support",
+      "free": "Community",
+      "pro": "Priority",
+      "enterprise": "24/7 Dedicated"
+    }
+  ]
+} 

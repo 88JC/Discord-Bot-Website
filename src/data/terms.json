@@ -1,0 +1,43 @@
+{
+  "sections": [
+    {
+      "title": "1. Acceptance of Terms",
+      "content": [
+        "By accessing and using our Discord bot and related services, you agree to be bound by these Terms of Service and all applicable laws and regulations.",
+        "If you do not agree with any of these terms, you are prohibited from using or accessing our services."
+      ]
+    },
+    {
+      "title": "2. Use License",
+      "content": [
+        "We grant you a limited, non-exclusive, non-transferable, revocable license to use our services for your personal, non-commercial use subject to these Terms."
+      ],
+      "list": [
+        "You must not modify or copy the bot's code",
+        "You must not use the bot for commercial purposes",
+        "You must not attempt to derive the source code",
+        "You must not create derivative works"
+      ]
+    },
+    {
+      "title": "3. Service Availability",
+      "content": [
+        "We strive to provide uninterrupted service, but we do not guarantee that our services will be available at all times.",
+        "We reserve the right to modify, suspend, or discontinue our services at any time without notice."
+      ]
+    },
+    {
+      "title": "4. User Responsibilities",
+      "content": [
+        "You are responsible for all activities that occur under your account.",
+        "You must not use our services for any illegal or unauthorized purpose."
+      ],
+      "list": [
+        "Respect Discord's Terms of Service",
+        "Do not abuse or exploit our services",
+        "Maintain the security of your account",
+        "Report any security vulnerabilities"
+      ]
+    }
+  ]
+} 

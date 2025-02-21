@@ -1,0 +1,42 @@
+{
+  "sections": [
+    {
+      "title": "Information We Collect",
+      "content": [
+        "We collect information to provide and improve our services. Here's what we collect:"
+      ],
+      "list": [
+        "Discord User ID and Username",
+        "Server Configuration Settings",
+        "Command Usage Statistics",
+        "Error and Performance Logs"
+      ]
+    },
+    {
+      "title": "How We Use Your Information",
+      "content": [
+        "We use the collected information for the following purposes:"
+      ],
+      "list": [
+        "To provide and maintain our services",
+        "To notify you about changes to our bot",
+        "To provide customer support",
+        "To detect and prevent abuse"
+      ]
+    },
+    {
+      "title": "Data Security",
+      "content": [
+        "We implement appropriate technical and organizational measures to protect your data against unauthorized access, alteration, disclosure, or destruction.",
+        "While we strive to use commercially acceptable means to protect your data, we cannot guarantee its absolute security."
+      ]
+    },
+    {
+      "title": "Third-Party Services",
+      "content": [
+        "Our bot may integrate with third-party services. These services have their own privacy policies, and we recommend reviewing them.",
+        "We are not responsible for the privacy practices of third-party services."
+      ]
+    }
+  ]
+} 

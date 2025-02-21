@@ -1,0 +1,28 @@
+{
+  "services": [
+    {
+      "name": "Bot Core Service",
+      "status": "operational",
+      "uptime": 99.99,
+      "message": null
+    },
+    {
+      "name": "Music System",
+      "status": "operational",
+      "uptime": 99.95,
+      "message": null
+    },
+    {
+      "name": "API Gateway",
+      "status": "operational",
+      "uptime": 99.98,
+      "message": null
+    },
+    {
+      "name": "Database",
+      "status": "operational",
+      "uptime": 100,
+      "message": null
+    }
+  ]
+} 

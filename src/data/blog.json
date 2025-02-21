@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "title": "Advanced Moderation Tips",
+      "slug": "advanced-moderation-tips",
+      "category": "Guide",
+      "date": "March 10, 2024",
+      "excerpt": "Learn how to effectively moderate your Discord server using our advanced tools."
+    },
+    {
+      "title": "Custom Commands Tutorial", 
+      "slug": "custom-commands-tutorial",
+      "category": "Tutorial",
+      "date": "March 5, 2024",
+      "excerpt": "Create powerful custom commands to automate your server management."
+    },
+    {
+      "title": "February Updates",
+      "slug": "february-updates", 
+      "category": "Updates",
+      "date": "February 28, 2024",
+      "excerpt": "Check out all the new features and improvements from February."
+    },
+    {
+      "title": "Community Spotlight",
+      "slug": "community-spotlight",
+      "category": "Community", 
+      "date": "February 20, 2024",
+      "excerpt": "Featuring amazing communities using our bot in creative ways."
+    }
+  ]
+} 

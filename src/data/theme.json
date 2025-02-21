@@ -1,0 +1,42 @@
+{
+  "colors": {
+    "primary": "amber",
+    "secondary": "amber",
+    "gradients": {
+      "light": {
+        "background": "from-amber-100/90 to-amber-50/90",
+        "hover": "hover:from-amber-100 hover:to-amber-50",
+        "text": "from-amber-900 via-amber-800 to-amber-900"
+      },
+      "dark": {
+        "background": "dark:from-amber-900/5 dark:to-amber-800/5",
+        "hover": "dark:hover:from-amber-800/10 dark:hover:to-amber-900/10",
+        "text": "dark:from-amber-200 dark:via-amber-100 dark:to-amber-200"
+      }
+    },
+    "text": {
+      "light": "text-amber-800",
+      "dark": "dark:text-amber-100"
+    },
+    "border": {
+      "light": "border-amber-200/30",
+      "dark": "dark:border-amber-800/10"
+    },
+    "background": {
+      "light": "bg-white/90",
+      "dark": "dark:bg-amber-950/20"
+    },
+    "hover": {
+      "light": "hover:bg-amber-50/80",
+      "dark": "dark:hover:bg-amber-900/10"
+    },
+    "input": {
+      "light": "bg-white/80 border-amber-200/30 text-amber-900 placeholder-amber-700/50",
+      "dark": "dark:bg-amber-950/10 dark:border-amber-800/10 dark:text-amber-100 dark:placeholder-amber-400/30"
+    },
+    "button": {
+      "light": "from-amber-700 to-amber-800 hover:from-amber-800 hover:to-amber-900",
+      "dark": "dark:from-amber-600 dark:to-amber-700 dark:hover:from-amber-500 dark:hover:to-amber-600"
+    }
+  }
+} 

@@ -1,0 +1,28 @@
+{
+  "communities": [
+    {
+      "name": "Aburob Community",
+      "members": "120,000 Members",
+      "image": "/images/aburob.png",
+      "verified": true
+    },
+    {
+      "name": "Anime Soul Discord",
+      "members": "688,000 Members",
+      "image": "/images/anime-soul.png",
+      "verified": true
+    },
+    {
+      "name": "PewDiePie | Floor Gang",
+      "members": "200,000 Members",
+      "image": "/images/pewdiepie.png",
+      "verified": true
+    },
+    {
+      "name": "PUBG Mobile Mena",
+      "members": "150,000 Members",
+      "image": "/images/pubg.png",
+      "verified": true
+    }
+  ]
+} 
